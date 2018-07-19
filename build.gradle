@@ -47,3 +47,7 @@ dependencies {
 	// nekohtml 简化hthymeleaf
 	compile('net.sourceforge.nekohtml:nekohtml:1.9.22')
 }
+war {
+	baseName = 'hello'
+	version = '0.1.0'
+}
